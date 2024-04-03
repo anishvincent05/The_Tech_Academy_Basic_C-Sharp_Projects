@@ -1,0 +1,13 @@
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\obj\Debug\netcoreapp3.1\Package_Express.csproj.AssemblyReference.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\obj\Debug\netcoreapp3.1\Package_Express.AssemblyInfoInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\obj\Debug\netcoreapp3.1\Package_Express.AssemblyInfo.cs
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\obj\Debug\netcoreapp3.1\Package_Express.csproj.CoreCompileInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\bin\Debug\netcoreapp3.1\Package_Express.exe
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\bin\Debug\netcoreapp3.1\Package_Express.deps.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\bin\Debug\netcoreapp3.1\Package_Express.runtimeconfig.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\bin\Debug\netcoreapp3.1\Package_Express.runtimeconfig.dev.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\bin\Debug\netcoreapp3.1\Package_Express.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\bin\Debug\netcoreapp3.1\Package_Express.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\obj\Debug\netcoreapp3.1\Package_Express.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\obj\Debug\netcoreapp3.1\Package_Express.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Package_Express\Package_Express\obj\Debug\netcoreapp3.1\Package_Express.genruntimeconfig.cache
