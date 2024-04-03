@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This projects is based on C# .
+This projects are based on C# .
 
 ## Package Express 
 
