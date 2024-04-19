@@ -1,0 +1,13 @@
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.exe
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.deps.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
