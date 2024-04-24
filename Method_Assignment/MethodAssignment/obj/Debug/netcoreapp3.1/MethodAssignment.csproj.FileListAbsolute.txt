@@ -1,0 +1,13 @@
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.csproj.AssemblyReference.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.AssemblyInfoInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.AssemblyInfo.cs
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.exe
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.deps.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.runtimeconfig.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.runtimeconfig.dev.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Assignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.genruntimeconfig.cache
