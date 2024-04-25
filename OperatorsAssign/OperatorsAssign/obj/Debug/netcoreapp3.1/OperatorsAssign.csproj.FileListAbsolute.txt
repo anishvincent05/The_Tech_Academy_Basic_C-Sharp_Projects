@@ -1,0 +1,13 @@
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\bin\Debug\netcoreapp3.1\OperatorsAssign.exe
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\bin\Debug\netcoreapp3.1\OperatorsAssign.deps.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\bin\Debug\netcoreapp3.1\OperatorsAssign.runtimeconfig.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\bin\Debug\netcoreapp3.1\OperatorsAssign.runtimeconfig.dev.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\bin\Debug\netcoreapp3.1\OperatorsAssign.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\bin\Debug\netcoreapp3.1\OperatorsAssign.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\obj\Debug\netcoreapp3.1\OperatorsAssign.csproj.AssemblyReference.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\obj\Debug\netcoreapp3.1\OperatorsAssign.AssemblyInfoInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\obj\Debug\netcoreapp3.1\OperatorsAssign.AssemblyInfo.cs
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\obj\Debug\netcoreapp3.1\OperatorsAssign.csproj.CoreCompileInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\obj\Debug\netcoreapp3.1\OperatorsAssign.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\obj\Debug\netcoreapp3.1\OperatorsAssign.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\OperatorsAssign\OperatorsAssign\obj\Debug\netcoreapp3.1\OperatorsAssign.genruntimeconfig.cache
