@@ -1,0 +1,13 @@
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\bin\Debug\netcoreapp3.1\Lambda_Expression.exe
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\bin\Debug\netcoreapp3.1\Lambda_Expression.deps.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\bin\Debug\netcoreapp3.1\Lambda_Expression.runtimeconfig.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\bin\Debug\netcoreapp3.1\Lambda_Expression.runtimeconfig.dev.json
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\bin\Debug\netcoreapp3.1\Lambda_Expression.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\bin\Debug\netcoreapp3.1\Lambda_Expression.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\obj\Debug\netcoreapp3.1\Lambda_Expression.csproj.AssemblyReference.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\obj\Debug\netcoreapp3.1\Lambda_Expression.AssemblyInfoInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\obj\Debug\netcoreapp3.1\Lambda_Expression.AssemblyInfo.cs
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\obj\Debug\netcoreapp3.1\Lambda_Expression.csproj.CoreCompileInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\obj\Debug\netcoreapp3.1\Lambda_Expression.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\obj\Debug\netcoreapp3.1\Lambda_Expression.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Lambda_Expression\obj\Debug\netcoreapp3.1\Lambda_Expression.genruntimeconfig.cache

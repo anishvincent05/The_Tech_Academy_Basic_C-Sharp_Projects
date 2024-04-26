@@ -12,15 +12,15 @@ namespace TwentyOne
         public Deck()
         {
             
-            Cards = new List<Card>();
+            Cards = new List<Card>();//Create Deck of 52 cards
 
             for(int i = 0; i < 13; i++)
             {
                 for(int j=0 ; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Face = (Face)i;
-                    card.Suit = (Suit)j;
+                    card.Face = (Face)i;//Converting int to enum
+                    card.Suit = (Suit)j;//Converting int to enum
                     Cards.Add(card);
                 }
             }
