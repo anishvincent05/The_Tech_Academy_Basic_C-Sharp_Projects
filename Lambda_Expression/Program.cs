@@ -24,6 +24,8 @@ namespace Lambda_Expression
             List<Employees> Emp2 = Emp.Where(x => x.FirstName == "Joe").ToList();//Lambda Expressiuon
 
             Console.WriteLine(Emp2[0].FirstName);
+            Console.ReadLine();
+
             
         }
     }

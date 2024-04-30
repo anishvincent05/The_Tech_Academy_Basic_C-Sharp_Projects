@@ -8,7 +8,7 @@ namespace TwentyOne
     {
         public List<Player> Players  { get; set; }
         public string name {get; set; }
-        public string  Dealer { get; set; }
+       
         public abstract void Play();
 
         public virtual void ListPlayer()
