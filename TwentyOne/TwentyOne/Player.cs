@@ -4,18 +4,35 @@ using System.Text;
 
 namespace TwentyOne
 {
-   public class Player
-    { public Player(string name,int beginingBalance)//Contractor for intialising player details from main program
+    public class Player
+    { public Player(string name, int beginingBalance)//Contractor for intialising player details from main program
         {
             Hand = new List<Card>();
             Balance = beginingBalance;
             Name = name;
         }
-        public List<Card> Hand { get; set; }
+        private List<Card> _hand = new List<Card>();
+        public List<Card> Hand { get {return _hand; } set{_hand = value;} }
         public string Name { get; set; }
         public int Balance { get; set; }
         public bool isActivePlaying { get; set; }
         public bool Stay { get; set; }
+
+        public bool Bet(int amount)
+        {
+            if (Balance -amount < 0)
+            {
+
+                Console.WriteLine("You do not have enough to place a bet that size.");
+                    return false;
+            }
+        else
+            {
+                Balance -= amount;
+                return true;
+            }
+        }
+        
 
         public static Game operator+ (Game game,Player player)
         {
