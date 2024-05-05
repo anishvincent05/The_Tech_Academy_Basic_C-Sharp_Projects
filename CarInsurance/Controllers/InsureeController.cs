@@ -34,6 +34,10 @@ namespace CarInsurance.Controllers
             }
             return View(table);
         }
+        public ActionResult Admin()
+        {
+            return View(db.Tables.ToList());
+        }
 
         // GET: Insuree/Create
         public ActionResult Create()
