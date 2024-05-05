@@ -46,10 +46,11 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateofBirth,CarYear,CarMake,CarModel,DUO,SpeedingTicket,CoverageType,Quote")] Table table)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateofBirth,CarYear,CarMake,CarModel,DUO,SpeedingTicket,CoverageType")] Table table)
         {
             if (ModelState.IsValid)
             {
+                table = Quotes(table);//Method for Calculating Quotes (Defined in bottom)
                 db.Tables.Add(table);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -122,6 +123,35 @@ namespace CarInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+        Table Quotes(Table tabl)//Method for Calculating Quotes
+        {
+            decimal quot = 50m;
+            int ageTemp = DateTime.Now.Year - tabl.DateofBirth.Year;
+            if (ageTemp <= 18)
+            { quot += 100m; }
+            if (ageTemp >= 19 && ageTemp <= 25)
+            { quot += 50m; }
+            if (ageTemp >= 26)
+            { quot += 25m; }
+            if (tabl.CarYear < 2000)
+            { quot += 25m; }
+            if (tabl.CarYear > 2015)
+            { quot += 25m; }
+            if (tabl.CarMake.ToLower() == "porsche")
+            { 
+                quot += 25m;
+                if (tabl.CarModel.ToLower() == "911 carrera")
+                { quot += 25m; }
+            }
+            quot += Convert.ToDecimal(tabl.SpeedingTicket) * 10;
+            if (tabl.DUO)
+            { quot += quot * .25m; }
+            if (tabl.CoverageType)
+            { quot += quot * .5m; }
+            tabl.Quote = quot;
+            return tabl;
+
         }
     }
 }
