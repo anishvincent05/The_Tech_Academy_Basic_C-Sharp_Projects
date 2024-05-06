@@ -1,0 +1,12 @@
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\obj\Debug\CodeFirstStudent.csproj.AssemblyReference.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\obj\Debug\CodeFirstStudent.csproj.CoreCompileInputs.cache
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\bin\Debug\CodeFirstStudent.exe.config
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\bin\Debug\CodeFirstStudent.exe
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\bin\Debug\CodeFirstStudent.pdb
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\bin\Debug\EntityFramework.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\bin\Debug\EntityFramework.SqlServer.dll
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\bin\Debug\EntityFramework.xml
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\bin\Debug\EntityFramework.SqlServer.xml
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\obj\Debug\CodeFirstStudent.csproj.CopyComplete
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\obj\Debug\CodeFirstStudent.exe
+C:\AOLCC-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\CodeFirstStudent\obj\Debug\CodeFirstStudent.pdb
