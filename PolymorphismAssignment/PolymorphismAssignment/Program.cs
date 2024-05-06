@@ -7,6 +7,7 @@ namespace PolymorphismAssignment
         static void Main(string[] args)
         {
         IQuittable quit = new Employee(); //Polymorphism
+             
             quit.Quit();//Calling method
 
             Employee Emp = new Employee();// Instantiate Employee class

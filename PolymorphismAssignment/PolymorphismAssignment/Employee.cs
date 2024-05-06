@@ -13,7 +13,7 @@ namespace PolymorphismAssignment
         public string Id { get; set; }
     public void Quit() //implementing Interface
     {
-        throw new NotImplementedException();
+            Console.WriteLine("The employee has quit.");
     }
     }
 }
