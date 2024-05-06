@@ -10,4 +10,13 @@ Package Express is software that calculate shipping cost on base of weight, heig
 
 ## Car Insurance
 
-Car Insurance is software that evaluate eligibility of customer .
+Car Insurance is software that evaluate eligibility of customer and quotes for easch customer
+
+## Code First Student
+
+Code First student is a approach to Entity Framework which Code will be crated first and generate database based on code.
+
+## TwentyOne
+
+TwentyOne is a casino game . Creating this game will make developer go through most of DotNET and C# features.
+
