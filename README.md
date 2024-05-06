@@ -16,3 +16,7 @@ Car Insurance is software that evaluate eligibility of customer and quotes for e
 
 Code First student is a approach to Entity Framework which Code will be crated first and generate database based on code.
 
+## TwentyOne
+
+TwentyOne is a casino game . Creating this game will make developer go through most of DotNET and C# features.
+
